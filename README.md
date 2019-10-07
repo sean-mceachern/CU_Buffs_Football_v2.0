@@ -1,3 +1,5 @@
 # Lab_Website_2
 
-adding javascpript to last week's HTML lab
+Adding javascript to last week's HTML lab.
+
+git@github.com:sean-mceachern/Lab_Website_2.git
