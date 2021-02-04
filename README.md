@@ -10,6 +10,6 @@ The teamstats are updated and the player stats homepage now includes data for ea
 
 How to View:
 
-1. follow the link 
+1. follow the link to https://github.com/sean-mceachern/CU_Buffs_Football_v2.0
 2. click the green "Code" button and "Download ZIP"
 3. navigate to the downloaded file, right click desired HTML file, and "open with" desired internet browser
